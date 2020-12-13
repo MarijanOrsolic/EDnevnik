@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1006385243167",
+    "firebase_url": "https://fpmoz-pma2020-2021.firebaseio.com",
+    "project_id": "fpmoz-pma2020-2021",
+    "storage_bucket": "fpmoz-pma2020-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006385243167:android:ec3f8f04077f0cabaf612a",
+        "android_client_info": {
+          "package_name": "ba.sum.fpmoz.morsolic.pma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006385243167-h3mt01hfdlr4t975rbcb1nfj0rfok7od.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb10MpyCoqKvhgyl5Sv_Wq2CuvuStbar8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006385243167-h3mt01hfdlr4t975rbcb1nfj0rfok7od.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
